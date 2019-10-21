@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="Sin_nombre" version="0.1.3" type="library">
+ <settings>
+  <title>Escuelas Primarias</title>
+  <revision description="created" date="10/21/19" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="main" name="main">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677643090" name="1571677643090">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677651882" name="1571677651882">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677669431" name="1571677669431">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677685121" name="1571677685121">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677691039" name="1571677691039">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677696454" name="1571677696454">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677746771" name="1571677746771">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677756347" name="1571677756347">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677771062" name="1571677771062">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677778465" name="1571677778465">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677799331" name="1571677799331">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677807449" name="1571677807449">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677815319" name="1571677815319">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677817780" name="1571677817780">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677820084" name="1571677820084">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677831064" name="1571677831064">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677833396" name="1571677833396">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677836652" name="1571677836652">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677838730" name="1571677838730">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677863384" name="1571677863384">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677868680" name="1571677868680">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677872763" name="1571677872763">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677886913" name="1571677886913">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677889113" name="1571677889113">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+  <item id="1571677893309" name="1571677893309">
+   <jump action="STOP" id="forward" />
+   <jump action="RETURN" id="back" />
+  </item>
+ </sequence>
+ <activities>
+  <activity class="@panels.Menu" name="main">
+   <description>
+    <p>Menú principal</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Menú principal</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="1" icon="@icofolder.png" sequence="1571677643090" />
+   <menuElement caption="2" icon="@icofolder.png" sequence="1571677651882" />
+   <menuElement caption="3" icon="@icofolder.png" sequence="1571677669431" />
+   <menuElement caption="4" icon="@icofolder.png" sequence="1571677685121" />
+   <menuElement caption="5" icon="@icofolder.png" sequence="1571677691039" />
+   <menuElement caption="6" icon="@icofolder.png" sequence="1571677696454" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677643090">
+   <description>
+    <p>1</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>1</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Cs Naturales" icon="@icofolder.png" sequence="1571677746771" />
+   <menuElement caption="Cs Sociales" icon="@icofolder.png" sequence="1571677756347" />
+   <menuElement caption="Lengua" icon="@icofolder.png" sequence="1571677771062" />
+   <menuElement caption="Matemática" icon="@icofolder.png" sequence="1571677778465" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677651882">
+   <description>
+    <p>2</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>2</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Cs Sociales" icon="@icofolder.png" sequence="1571677799331" />
+   <menuElement caption="Lengua" icon="@icofolder.png" sequence="1571677863384" />
+   <menuElement caption="Matemática" icon="@icofolder.png" sequence="1571677886913" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677669431">
+   <description>
+    <p>3</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>3</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Cs Naturales" icon="@icofolder.png" sequence="1571677831064" />
+   <menuElement caption="Cs Sociales" icon="@icofolder.png" sequence="1571677807449" />
+   <menuElement caption="Matemática" icon="@icofolder.png" sequence="1571677889113" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677685121">
+   <description>
+    <p>4</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>4</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Cs Naturales" icon="@icofolder.png" sequence="1571677833396" />
+   <menuElement caption="Cs Sociales" icon="@icofolder.png" sequence="1571677815319" />
+   <menuElement caption="Lengua" icon="@icofolder.png" sequence="1571677868680" />
+   <menuElement caption="Matemática" icon="@icofolder.png" sequence="1571677893309" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677691039">
+   <description>
+    <p>5</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>5</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Cs Naturales" icon="@icofolder.png" sequence="1571677836652" />
+   <menuElement caption="Cs Sociales" icon="@icofolder.png" sequence="1571677817780" />
+   <menuElement caption="Lengua" icon="@icofolder.png" sequence="1571677872763" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677696454">
+   <description>
+    <p>6</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>6</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Cs Naturales" icon="@icofolder.png" sequence="1571677838730" />
+   <menuElement caption="Cs Sociales" icon="@icofolder.png" sequence="1571677820084" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677746771">
+   <description>
+    <p>Cs Naturales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Naturales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Biótico y Abiótico" icon="@ico01.png" path="1/Cs Naturales/1nz_BioticoYAbiotico.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677756347">
+   <description>
+    <p>Cs Sociales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Sociales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Derechos del niño" icon="@ico02.png" path="1/Cs Sociales/3mz_DerechosNiño.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677771062">
+   <description>
+    <p>Lengua</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Lengua</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Ordenar sílabas" icon="@ico02.png" path="1/Lengua/1lz_ordenarsilabas.jclic.zip" />
+   <menuElement caption="Ordenar oración" icon="@ico02.png" path="1/Lengua/ordenaroracion.jclic.zip" />
+   <menuElement caption="Palabras 1" icon="@ico02.png" path="1/Lengua/palabras.jclic.zip" />
+   <menuElement caption="Palabras 2" icon="@ico02.png" path="1/Lengua/palabras2.jclic.zip" />
+   <menuElement caption="Palabras 3" icon="@ico02.png" path="1/Lengua/palabras3.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677778465">
+   <description>
+    <p>Matemática</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Matemática</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="1 al 10" icon="@ico03.png" path="1/Matematica/1mz_1a10.jclic.zip" />
+   <menuElement caption="1a" icon="@ico03.png" path="1/Matematica/mates1a.jclic.zip" />
+   <menuElement caption="1b" icon="@ico03.png" path="1/Matematica/mates1b.jclic.zip" />
+   <menuElement caption="Sumas y restas" icon="@ico03.png" path="1/Matematica/sumasre2.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677799331">
+   <description>
+    <p>Cs Sociales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Sociales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="9 de Julio" icon="@ico01.png" path="2/Cs Sociales/1bz_9julio.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677807449">
+   <description>
+    <p>Cs Sociales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Sociales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="9 de Julio" icon="@ico01.png" path="3/Cs Sociales/3bz_9julio.jclic.zip" />
+   <menuElement caption="San Martín" icon="@ico01.png" path="3/Cs Sociales/3bz_sanmartin.jclic.zip" />
+   <menuElement caption="Sarmiento" icon="@ico01.png" path="3/Cs Sociales/sarmiento.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677815319">
+   <description>
+    <p>Cs Sociales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Sociales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Santa Cruz" icon="@ico01.png" path="4/Cs Sociales/santacruz.jclic.zip" />
+   <menuElement caption="Ambientes patagónicos" icon="@ico01.png" path="4/Cs Sociales/ambientes_patagonicos.jclic.zip" />
+   <menuElement caption="América" icon="@ico01.png" path="4/Cs Sociales/america.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677817780">
+   <description>
+    <p>Cs Sociales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Sociales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Regiones geográficas de Argentina" icon="@ico01.png" path="5/Cs Sociales/regionesgeograficas.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677820084">
+   <description>
+    <p>Cs Sociales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Sociales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="América del Sur" icon="@ico01.png" path="6/Cs Sociales/6sz_americadelsur.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677831064">
+   <description>
+    <p>Cs Naturales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Naturales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Dinosaurios 1" icon="@ico01.png" path="3/Cs Naturales/3nz_dinosaurios.jclic.zip" />
+   <menuElement caption="Dinosaurios 2" icon="@ico01.png" path="3/Cs Naturales/dinos.jclic.zip" />
+   <menuElement caption="Dinosaurios 3" icon="@ico01.png" path="3/Cs Naturales/ve_din.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677833396">
+   <description>
+    <p>Cs Naturales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Naturales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Vertebrados" icon="@ico01.png" path="4/Cs Naturales/vertebr2.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677836652">
+   <description>
+    <p>Cs Naturales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Naturales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Clasificación de organismos" icon="@ico01.png" path="5/Cs Naturales/clasificacion.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677838730">
+   <description>
+    <p>Cs Naturales</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Cs Naturales</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Células" icon="@ico01.png" path="6/Cs Naturales/celulas.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677863384">
+   <description>
+    <p>Lengua</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Lengua</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="ABCD" icon="@ico02.png" path="2/Lengua/abecedario.jclic.zip" />
+   <menuElement caption="Cuentos" icon="@ico02.png" path="2/Lengua/cuentos.jclic.zip" />
+   <menuElement caption="Formar palabras" icon="@ico02.png" path="2/Lengua/formapalabras.jclic.zip" />
+   <menuElement caption="Uso de la M" icon="@ico02.png" path="2/Lengua/usom.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677868680">
+   <description>
+    <p>Lengua</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Lengua</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Ortografía" icon="@ico02.png" path="4/Lengua/ortogra2.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677872763">
+   <description>
+    <p>Lengua</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Lengua</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Sustantivos y Adjetivos" icon="@ico02.png" path="5/Lengua/sustyadjet.jclic.zip" />
+   <menuElement caption="Sustantivos, adjetivos y verbos" icon="@ico02.png" path="5/Lengua/SustAdjVerbos.jclic.zip" description="" />
+   <menuElement caption="Verbos y adverbios" icon="@ico02.png" path="5/Lengua/5mz_verbosadverbios.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677886913">
+   <description>
+    <p>Matemática</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Matemática</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Mayor Menor Decenas Centenas" icon="@ico03.png" path="2/Matematica/2MY_MayMenDescAntSig.jclic.zip" />
+   <menuElement caption="Cálculos" icon="@ico03.png" path="2/Matematica/calcul2es.jclic.zip" />
+   <menuElement caption="Cuentas mentales" icon="@ico03.png" path="2/Matematica/CuentasMentales.jclic.zip" />
+   <menuElement caption="Familia del 100" icon="@ico03.png" path="2/Matematica/fam100.jclic.zip" />
+   <menuElement caption="0 a 29" icon="@ico03.png" path="2/Matematica/hasta29.jclic.zip" />
+   <menuElement caption="0 a 49" icon="@ico03.png" path="2/Matematica/hasta49.jclic.zip" />
+   <menuElement caption="0 a 69" icon="@ico03.png" path="2/Matematica/hasta69.jclic.zip" />
+   <menuElement caption="0 a 99" icon="@ico03.png" path="2/Matematica/hasta99.jclic.zip" />
+   <menuElement caption="2 cifras" icon="@ico03.png" path="2/Matematica/num2cif.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677889113">
+   <description>
+    <p>Matemática</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Matemática</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Tabla del 2" icon="@ico03.png" path="3/Matematica/3mz_tabla2.jclic.zip" />
+   <menuElement caption="Tabla del 3" icon="@ico03.png" path="3/Matematica/3mz_tabla3.jclic.zip" />
+   <menuElement caption="Tabla del 4" icon="@ico03.png" path="3/Matematica/3mz_tabla4.jclic.zip" />
+   <menuElement caption="Tabla del 5" icon="@ico03.png" path="3/Matematica/3mz_tabla5.jclic.zip" />
+   <menuElement caption="Tabla del 6" icon="@ico03.png" path="3/Matematica/3mz_tabla6.jclic.zip" />
+   <menuElement caption="Todas las tablas" icon="@ico03.png" path="3/Matematica/3mz_tablastodas.jclic.zip" />
+   <menuElement caption="Decenas y Centenas" icon="@ico03.png" path="3/Matematica/dec_cent.jclic.zip" />
+   <menuElement caption="1b" icon="@ico03.png" path="3/Matematica/mates1b.jclic.zip" />
+  </activity>
+  <activity class="@panels.Menu" name="1571677893309">
+   <description>
+    <p>Matemática</p>
+   </description>
+   <messages>
+    <cell type="initial">
+     <style />
+     <p>Matemática</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="false">
+    <container bgColor="0xC0C0C0">
+     <counters time="false" actions="false" score="false" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true" />
+   </settings>
+   <menuElement caption="Tablas de doble entrada" icon="@ico03.png" path="4/Matematica/4mz_dobleentrada.jclic.zip" />
+   <menuElement caption="Divisiones" icon="@ico03.png" path="4/Matematica/dividir2.jclic.zip" />
+   <menuElement caption="Introducción a las fracciones" icon="@ico03.png" path="4/Matematica/intrfrac.jclic.zip" />
+   <menuElement caption="Fracciones" icon="@ico03.png" path="4/Matematica/fracciones.jclic.zip" />
+   <menuElement caption="Operaciones" icon="@ico03.png" path="4/Matematica/operaciones.jclic.zip" />
+  </activity>
+ </activities>
+ <mediaBag />
+</JClicProject>
+
