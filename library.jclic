@@ -336,9 +336,6 @@
     <window bgColor="0xC0C0C0" border="true" />
    </settings>
    <menuElement caption="1 al 10" icon="@ico03.png" path="1/Matematica/1mz_1a10.jclic.zip" />
-   <menuElement caption="1a" icon="@ico03.png" path="1/Matematica/mates1a.jclic.zip" />
-   <menuElement caption="1b" icon="@ico03.png" path="1/Matematica/mates1b.jclic.zip" />
-   <menuElement caption="Sumas y restas" icon="@ico03.png" path="1/Matematica/sumasre2.jclic.zip" />
   </activity>
   <activity class="@panels.Menu" name="1571677799331">
    <description>
@@ -526,7 +523,6 @@
    </settings>
    <menuElement caption="ABCD" icon="@ico02.png" path="2/Lengua/abecedario.jclic.zip" />
    <menuElement caption="Cuentos" icon="@ico02.png" path="2/Lengua/cuentos.jclic.zip" />
-   <menuElement caption="Formar palabras" icon="@ico02.png" path="2/Lengua/formapalabras.jclic.zip" />
    <menuElement caption="Uso de la M" icon="@ico02.png" path="2/Lengua/usom.jclic.zip" />
   </activity>
   <activity class="@panels.Menu" name="1571677868680">
@@ -564,7 +560,7 @@
     <window bgColor="0xC0C0C0" border="true" />
    </settings>
    <menuElement caption="Sustantivos y Adjetivos" icon="@ico02.png" path="5/Lengua/sustyadjet.jclic.zip" />
-   <menuElement caption="Sustantivos, adjetivos y verbos" icon="@ico02.png" path="5/Lengua/SustAdjVerbos.jclic.zip" description="" />
+   <menuElement caption="Sustantivos, adjetivos y verbos" icon="@ico02.png" path="5/Lengua/SustAdjVerbos.jclic.zip" />
    <menuElement caption="Verbos y adverbios" icon="@ico02.png" path="5/Lengua/5mz_verbosadverbios.jclic.zip" />
   </activity>
   <activity class="@panels.Menu" name="1571677886913">
